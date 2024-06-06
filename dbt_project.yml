@@ -2,6 +2,9 @@ name: core_platform
 version: "2.1.0"
 config-version: 2
 
+dbt-cloud:
+  project_id: 371577
+
 profile: "snowflake"
 require-dbt-version: ">=1.6.0"
 
